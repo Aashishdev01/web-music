@@ -53,7 +53,7 @@ nav ul li{
 
 
 .bottom{
-    position:static;
+    position:sticky;
     bottom: 0;
     height: 130px;
     background-color: black;
